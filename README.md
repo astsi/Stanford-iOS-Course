@@ -16,7 +16,7 @@ The code created by following the Stanford SwiftUI Course
 - using a .fill() to fill the shape
 - text cant be stroked - it’s not a shape
 
-### Modifirers:
+### Modifiers:
 - Adding new modifiers in the inspector section
   -  use the add modifier search field - click to find the one you want to use
 - You can add modifiers to the ZStack/VStack
